@@ -337,7 +337,7 @@ for chat_id, title in chats:
 
 
 # -------- Risk Prediction Section --------
-# st.divider()
+
 if st.session_state.page == "risk":
 
     st.title("Diabetes Risk Prediction")
